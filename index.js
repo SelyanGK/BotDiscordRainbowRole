@@ -25,8 +25,8 @@ bot.on("ready", async() => {
     bot.user.setPresence({
         status: 'dnd',
         activity: {
-            name: 'Roles Color Changer',
-            type: 'WATCHING',
+            name: 'Roles Color Changer | By SelyanGK',
+            type: 'PLAYING',
         }
     })
 })
